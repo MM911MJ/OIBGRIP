@@ -1,1 +1,0 @@
-#OIBGRIP_TASK1
